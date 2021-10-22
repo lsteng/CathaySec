@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cathaysec</string>
+    <string name="tab_text_1">分頁1</string>
+    <string name="tab_text_2">分頁2</string>
+    <string name="appbar_title1">線上測驗A</string>
+    <string name="appbar_title2">線上測驗B</string>
+
+</resources>
